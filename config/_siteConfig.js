@@ -12,7 +12,7 @@ export default {
   siteName: 'Conner Hayes',
   tagline: 'An Official Site and Showcase',
   featureImage: '/uploads/home-hero.jpg',
-  logo: '/uploads/hippogryph.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
