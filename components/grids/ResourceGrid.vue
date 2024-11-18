@@ -29,7 +29,7 @@ export default {
     // eslint-disable-next-line vue/require-prop-types
     resource: { required: true },
     theme: { type: String, default: 'blocks' },
-    perRow: { type: Number, default: 3 },
+    perRow: { type: Number, default: 1 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
     category: {
