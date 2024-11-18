@@ -11,3 +11,5 @@ featureImage: /uploads/hippogryph.png
 H﻿ere is a second test on the post functionality.
 
 T﻿odo: assign categories for main showcase and tertiary showcase, including "library" entries.
+
+![](/uploads/cookie-monster.jpg)
