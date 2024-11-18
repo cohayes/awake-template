@@ -1,9 +1,9 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      title="Howdy"
+      subtitle="A WIP Contact Page"
+      image="/uploads/cookie-monster.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                Feed me cookies!
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -28,15 +28,11 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    This page is still being edited.
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  I'd like to use minimal cookies and not allow commercial use of any data that is used on this site.
                 </p>
               </div>
             </article>
