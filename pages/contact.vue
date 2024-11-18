@@ -3,7 +3,7 @@
     <site-hero
       title="Howdy"
       subtitle="A WIP Contact Page"
-      image="/uploads/Dogfort.jpg"
+      image="/uploads/dogfort.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
