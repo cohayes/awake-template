@@ -3,7 +3,7 @@
     <site-hero
       title="Howdy"
       subtitle="A WIP Contact Page"
-      image="/uploads/cookie-monster.jpg"
+      image="/uploads/Dogfort.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -18,9 +18,9 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/cookie-monster.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/cookie-monster.jpg').srcSet
                   "
                 />
               </figure>
