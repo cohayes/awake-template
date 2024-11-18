@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Conner Hayes',
   tagline: 'An Official Site and Showcase',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/sunset_unk.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
