@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Conner Hayes',
+  siteName: 'Imagining Tomorrow',
   tagline: 'An Official Site and Showcase',
   featureImage: '/uploads/sunset_unk.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
