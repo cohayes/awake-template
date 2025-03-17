@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Imagining Tomorrow',
-  tagline: 'An Official Site and Showcase',
+  siteName: 'Greatness Starts At Breakfast',
+  tagline: 'A Mixed Portfolio',
   featureImage: '/uploads/sunset_unk.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
