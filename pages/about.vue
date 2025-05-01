@@ -11,23 +11,23 @@
           <h3>Howdy</h3>
 
           <p>
-            I'm a gaming enthusiast with a passion for tabletop and PC games. The ability
-            for these mediums to tell stories in worlds that parallel our own is what draws
-            me to them. As a youth I was an avid reader, enjoying works of sci-fi and fantasy
-            from authors like Robert Heinlein, Ben Bova, Robert Asprin, Lynn Abbey, and Gene 
-            Wolfe. As my palate matures, I find greater enjoyment from classic authors as John
+            A gaming enthusiast with a passion for tabletop and PC games. Relatable characters
+            and conflicts draw me to these fictional worlds, where challenges can be solved by
+            combining imagination and strategy. As a youth I read avidly, enjoying science fiction and fantasy
+            from the likes of Robert Heinlein, Ben Bova, Robert Asprin, Lynn Abbey, and Gene 
+            Wolfe. As an adult, I enjoy searching out classics from authors as John
             Steinbeck, Thomas Wolfe, and Henry Miller.
           </p>
           <p>
-            My working career has revolved around geospatial data, being formally educated in
-            GIS and Geography from the University of Washington. I have held geo-data curator
-            positions at Apple and Microsoft. Additionally, I've worked on drafts for civil 
-            engineers and maps for startups. My experience has not always been so office-centric,
-            I greatly value the time I've spent working in a kitchen, manufacturing prescription
-            glasses, and teaching English language in Japan.
+            My working career has centered on geospatial data, with a degree in Geography
+            from the University of Washington. I have held geo-data curator
+            positions at Apple and Microsoft. Additionally, I've worked for civil 
+            engineering and startup companies. My experience has not always been so office-centric though,
+            I greatly value my time spent in a kitchen, manufacturing 
+            glasses, and teaching English in Japan.
           </p>
           <p>
-            My current objectives are to learn and contribute to the global community.
+            My current objective is to learn and apply my knowledge to problems facing the global community.
           </p>
 
         </div>
