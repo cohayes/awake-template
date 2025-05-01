@@ -24,7 +24,7 @@ export default {
   name: 'SiteLogo',
   data() {
     return {
-      frames: 5,
+      frames: 4,
       currentFrame: 1,
       blinking: true
     }
@@ -58,7 +58,7 @@ export default {
       max-height: initial;
     }
     &.blink {
-      animation: logoBlink 1s steps(8, end) alternate;
+      animation: logoBlink 10s steps(4, end) alternate;
     }
   }
 }
