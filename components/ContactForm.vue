@@ -14,7 +14,7 @@
           name="name" 
           type="text" 
           @input="ev => form.name = ev.target.value"
-          placeholder="John Smith" />
+          placeholder="Mundi Gratis" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -29,7 +29,7 @@
           name="email"
           type="email"
           @input="ev => form.email = ev.target.value"
-          placeholder="you@email.com"
+          placeholder="your@email.com"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
@@ -45,7 +45,7 @@
           name="subject"
           type="text"
           @input="ev => form.subject = ev.target.value"
-          placeholder="Brief Summary"
+          placeholder="Topic"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="briefcase" />
@@ -60,7 +60,7 @@
           class="textarea"
           name="text_input"
           @input="ev => form.bodytext = ev.target.value"
-          placeholder="Detailed description of your comment, request, etc"
+          placeholder="Scathing criticism, compliments, and witticisms go here!"
           rows="8"
         ></textarea>
       </div>
