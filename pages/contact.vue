@@ -2,37 +2,29 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Howdy"
-      subtitle="A WIP Contact Page"
-      image="/uploads/dogfort.jpg"
+      subtitle="What's on Your Mind?"
+      image="/uploads/vole-berry.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">
-                Hello!
-              </p>
               <p class="subtitle">
-                Feed me cookies!
+                Hard at work
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/cookie-monster.jpg').src"
+                  :src="require('~/assets/uploads/hippogryph.png').src"
                   :srcset="
-                    require('~/assets/uploads/cookie-monster.jpg').srcSet
+                    require('~/assets/uploads/hippogryph.png').srcSet
                   "
                 />
               </figure>
               <br />
               <div class="content">
                 <p>
-                  <strong>
-                    This page is still being edited.
-                  </strong>
-                </p>
-                <p>
-                  I'd like to use minimal cookies and not allow commercial use of any data that is used on this site.
+                  All comments, questions, or suggestions are welcome.
                 </p>
               </div>
             </article>
