@@ -17,7 +17,7 @@
             solutions and outcomes. This development is important to the solving of our real-world problems,
             as possible courses of action are often limited by our conceptual ability. A solution
             the general public believes to be possible will correlate with the solutions shown in popular media.
-            Therefore I believe it is important to emphasis cooperation and non-violent problem solving in
+            Therefore I believe it is important to emphasize cooperation and non-violent problem solving in
             the work of any creative artist.
           </p>
           <p>
