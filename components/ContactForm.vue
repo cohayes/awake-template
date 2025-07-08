@@ -4,15 +4,16 @@
     method="post"
     data-netlify="true"
     data-netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="contact" />
     <!-- Name -->
     <div class="field">
-      <input type="hidden" name="form-name" value="contact" />
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
         <input
           class="input is-medium" 
           name="name" 
           type="text" 
+          @input="ev => form.name = ev.target.value"
           placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
@@ -27,6 +28,7 @@
           class="input is-medium"
           name="email"
           type="email"
+          @input="ev => form.email = ev.target.value"
           placeholder="you@email.com"
         />
         <span class="icon is-small is-left">
@@ -42,6 +44,7 @@
           class="input is-medium"
           name="subject"
           type="text"
+          @input="ev => form.subject = ev.target.value"
           placeholder="Brief Summary"
         />
         <span class="icon is-small is-left">
@@ -56,6 +59,7 @@
         <textarea
           class="textarea"
           name="text_input"
+          @input="ev => form.bodytext = ev.target.value"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
         ></textarea>
