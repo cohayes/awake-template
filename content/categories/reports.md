@@ -1,5 +1,5 @@
 ---
-name: Reports
+name: Literary Reviews
 image: /uploads/ulriken-norway.jpg
-description: I﻿nformation consolidated to illustrate a meaningful point.
+description: Book report style exposition of miscellaneous readings.
 ---
