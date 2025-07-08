@@ -33,7 +33,7 @@
             and mathematics), work with geo-spatial data is at the core of my accomplishments thus far. 
             Through vendor positions, I have curated geographic information for both Apple and Microsoft.
             Some of my additional experiences include working for civil engineers and a GIS startup. Also
-            valuable is my time working in a kitchen, manufacturing perscription glasses, and teaching English in Japan.
+            valuable is my time working in a kitchen, manufacturing prescription glasses, and teaching English in Japan.
           </p>
           <p>
             My objective is to develop skills and experience which will contribute to solving the problems faced
