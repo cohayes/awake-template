@@ -9,7 +9,11 @@
       <input type="hidden" name="form-name" value="contact" />
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input
+          class="input is-medium" 
+          name="name" 
+          type="text" 
+          placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -21,6 +25,7 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
+          name="email"
           type="email"
           placeholder="you@email.com"
         />
@@ -35,6 +40,7 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
+          name="subject"
           type="text"
           placeholder="Brief Summary"
         />
@@ -49,6 +55,7 @@
       <div class="control">
         <textarea
           class="textarea"
+          name="text_input"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
         ></textarea>
