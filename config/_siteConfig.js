@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Greatness Starts At Breakfast',
+  siteName: 'Preparing for Success',
   tagline: 'A Mixed Portfolio',
   featureImage: '/uploads/sunset_unk.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
