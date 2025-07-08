@@ -3,10 +3,10 @@
     name="contact"
     method="post"
     data-netlify="true"
-    data-netlify-honeypot="bot-field"
-    hidden>
+    data-netlify-honeypot="bot-field">
     <!-- Name -->
     <div class="field">
+      <input type="hidden" name="form-name" value="contact" />
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
         <input class="input is-medium" type="text" placeholder="John Smith" />
