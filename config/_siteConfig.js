@@ -12,7 +12,7 @@ export default {
   siteName: 'Preparing for Success',
   tagline: 'A Mixed Portfolio',
   featureImage: '/uploads/sunset_unk.jpeg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
