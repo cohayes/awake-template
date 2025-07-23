@@ -23,6 +23,10 @@ export default {
       link: '/about'
     },
     {
+      name: 'Roadmap',
+      link: '/roadmap'
+    },
+    {
       name: 'Contact',
       link: '/contact'
     },
