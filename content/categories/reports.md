@@ -1,5 +1,5 @@
 ---
-name: Literary Reviews
-image: /uploads/ulriken-norway.jpg
-description: Book report style exposition of miscellaneous readings.
+name: Literature Highlights
+image: /uploads/kahlil_gibran_3.jpg
+description: Exploring readings of interest.
 ---
