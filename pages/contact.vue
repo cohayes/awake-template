@@ -3,7 +3,7 @@
     <site-hero
       title="Howdy"
       subtitle="What's on Your Mind?"
-      image="/uploads/vole-berry.jpg"
+      image="/uploads/country.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -15,16 +15,16 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/hippogryph.png').src"
+                  :src="require('~/assets/uploads/horse.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/hippogryph.png').srcSet
+                    require('~/assets/uploads/horse.jpg').srcSet
                   "
                 />
               </figure>
               <br />
               <div class="content">
                 <p>
-                  All comments, questions, or suggestions are welcome.
+                  All comments, questions, and suggestions are welcome.
                 </p>
               </div>
             </article>
