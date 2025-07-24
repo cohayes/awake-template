@@ -3,7 +3,7 @@
     <site-hero
       title="Upcoming Features"
       subtitle=""
-      image="/uploads/vaina.png"
+      image="/uploads/packing.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
