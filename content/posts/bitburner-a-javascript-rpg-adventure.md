@@ -1,9 +1,8 @@
 ---
-title: "Bitburner: Learning JavaScript Through Games"
-subtitle: Learning through play
+title: "Bitburner: A Prologue"
+subtitle: A Javascripting Adventure
 category:
-  - Main Showcase
-  - Bitburner
+  - Game Theory
 author: CHayes
 date: 2024-11-18T11:36:58.065Z
 featureImage: /uploads/bitburner-dukenukemdad.jpg
