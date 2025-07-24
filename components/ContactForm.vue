@@ -60,7 +60,7 @@
           class="textarea"
           name="text_input"
           @input="ev => form.bodytext = ev.target.value"
-          placeholder="Scathing criticism, compliments, and witticisms go here!"
+          placeholder="Your message goes here!"
           rows="8"
         ></textarea>
       </div>
