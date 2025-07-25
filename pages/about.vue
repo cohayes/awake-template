@@ -55,8 +55,8 @@
             my profile can be found <a href="https://www.linkedin.com/in/cohayes9/">here</a>.
           </p>
           <p>
-            My current objective is to develop the skills and experiences that will position me
-            for tackling problems faced by our global community.
+            My current objective is developing skills and experiences to position myself
+            for tackling problems faced by the global community.
           </p>
 
         </div>
