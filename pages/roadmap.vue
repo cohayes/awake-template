@@ -11,9 +11,15 @@
           <h3>What's ahead</h3>
 
           <p>
-            Probably a lot of good things!
+            Probably a lot of good things! Such as:
           </p>
-          
+          <ul>
+            <li> Lit-Review: Edwin A Abbott's Flatland </li>
+            <li> More (Javascripting) Bitburner theory </li>
+            <li> Exploring an Adafruit GPS chip </li>
+            <li> Replacement audio-pack for an oldschool CRPG </li>
+            <li> Recipes? </li>
+          </ul>
         </div>
 
       </template>
