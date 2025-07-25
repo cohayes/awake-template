@@ -7,7 +7,7 @@ author: Conner Hayes
 date: 2025-07-25T12:37:00.668Z
 featureImage: /uploads/marcus_aurelius.jpg
 ---
-W﻿ho: Marcus Aurelius was a Roman noble who lived from 121-180 CE, he became heir to the Roman empire at the age of 17 and assumed the throne at the age of 60. 
+W﻿ho: Marcus Aurelius was a Roman noble who lived from 121-180 CE, he became heir to the Roman empire at the age of 17 and assumed the throne at the age of 40. 
 
 W﻿hat: A collection of journal writings, not intended for publication but as a personal guide. Divided into 12 parts.
 
@@ -50,8 +50,6 @@ A﻿bout what am I employing my own soul? Is my ruling principle that of a child
 P﻿lants, beasts, and tyrants in turn may value transpiration, respiration, and the movements of their desire. What is to be valued? Not praise, but moving and conforming to the proper constitution, towards the ends of our employments or arts. All tools are wont to be adapted to their purpose: plants are cultivated for fruits, animals trained for labor, wood carved for fitting, and stone sculpted to image. So too we should strive towards ends of being adapted to purpose rather than left raw and untried, with only base motives.
 
 I﻿f injured by another, do not treat them with suspicion or as an enemy, but simply get out of their way as it is in your power to do so. For animals and things generally, make use of them liberally, but for humans with reason, behave with a social spirit. If we judge only those things within our power to be good or bad, there will be no reason for faulting gods or taking a hostile attitude towards man. Should a man using force stand in your way, use the hinderance towards the exercise of some other virtue, rest content not trying the impossible but in achieving thy aim.
-
-
 
 E﻿nd of Part 1
 
