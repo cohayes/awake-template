@@ -39,8 +39,8 @@
           </p>
           <p>
             In my working career, I constantly strive towards positions of greater challenge and responsibility.
-            Obtaining my major in Geography from the University of Washington with strong foundations in science
-            and mathematics, geo-spatial data has been at the core of my pursuits thus far. 
+            Obtaining my major in Geography from the University of Washington with a strong foundation in science
+            and mathematics, my experience has been centered on geo-spatial data. 
             Through positions with vendors for Apple and Microsoft, I have curated datasets of geographic information.
             My accomplishments include taking on a team lead position for 20 map editors at the start of Covid lockdowns,
             and holding remote meetings and trainings with all of those members.
