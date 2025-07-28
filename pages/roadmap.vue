@@ -14,11 +14,12 @@
             Probably a lot of good things! Such as:
           </p>
           <ul>
+            <li> Lit-Review: Marcus Arelius' Meditations </li>
             <li> Lit-Review: Edwin A Abbott's Flatland </li>
-            <li> More (Javascripting) Bitburner theory </li>
-            <li> Exploring an Adafruit GPS chip </li>
-            <li> Replacement audio-pack for an oldschool CRPG </li>
-            <li> Recipes? </li>
+            <li> Bitburner Introduction </li>
+            <li> Bitburner matplotlib charts </li>
+            <li> Exploring the Adafruit GPS chip </li>
+
           </ul>
         </div>
 
