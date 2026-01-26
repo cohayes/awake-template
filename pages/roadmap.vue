@@ -9,16 +9,12 @@
       <template v-slot:default>
         <div class="content">
           <h3>What's ahead</h3>
-
-          <p>
-            Probably a lot of good things! Such as:
-          </p>
           <ul>
-            <li> Lit-Review: Marcus Arelius' Meditations </li>
-            <li> Lit-Review: Edwin A Abbott's Flatland </li>
-            <li> Bitburner Introduction </li>
-            <li> Bitburner matplotlib charts </li>
-            <li> Exploring the Adafruit GPS chip </li>
+            <li> Now building: A Dosadi soup kitchen (Python and Unity) <https://github.com/cohayes/soup-kitchen> </li>
+            <li> Next: Bitburner Refinement (JavaScript and Python.matplotlib) </li>
+            <li> Later: Marcus Arelius' Meditations (Writing) </li>
+            <li> Later: Edwin A Abbott's Flatland (Writing) </li>
+            <li> Later: Exploring the Adafruit GPS chip (Python and C++) </li>
 
           </ul>
         </div>
