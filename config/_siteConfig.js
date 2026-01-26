@@ -3,7 +3,7 @@
  * Alter 'netlify' in the import statment below to one of the following:
  * netlify
  */
-import theCMS from '../cms/netlify/cms'
+import theCMS from '../cms/netlify/cms.js'
 
 /**
  * General Site configurations
