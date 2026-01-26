@@ -1,5 +1,5 @@
 import chunk from 'lodash.chunk'
-import { flattenResource } from './helper'
+import { flattenResource } from './helper.js'
 
 /**
  * Get a single resource at a time

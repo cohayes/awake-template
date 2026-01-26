@@ -1,4 +1,4 @@
-import { getMixins } from './mixins'
+import { getMixins } from './mixins.js'
 
 class Post {
   constructor(axios) {
