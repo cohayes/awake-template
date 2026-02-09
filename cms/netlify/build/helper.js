@@ -2,7 +2,7 @@ import fs from 'fs'
 import rimraf from 'rimraf'
 import chunk from 'lodash.chunk'
 import matter from 'gray-matter'
-import { flattenResource } from '../helper'
+import { flattenResource } from '../helper.js'
 
 export function compareDates(a, b) {
   const aParsed = Date.parse(a.data.date)
@@ -36,7 +36,8 @@ export function createPagination(numPages, items, dir) {
 export function createMeta(newMeta, file) {
   let meta = {}
   if (fs.existsSync(file)) {
-    meta = require(file)
+    const raw = fs.readFileSync(file, 'utf-8')
+    meta = raw ? JSON.parse(raw) : {}
   }
   const combined = Object.assign(meta, newMeta)
   const chunkWriteStream = fs.createWriteStream(file, 'UTF-8')

@@ -1,6 +1,10 @@
-import siteConfig from '../../../config/_siteConfig'
-import { createPagination, createMeta, createAll } from './helper'
-const rootDir = `${__dirname}/../../..`
+import path from 'path'
+import { fileURLToPath } from 'url'
+import siteConfig from '../../../config/_siteConfig.js'
+import { createPagination, createMeta, createAll } from './helper.js'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
+const rootDir = path.resolve(__dirname, '../../..')
 const generateCategoryApi = () => {
   const contentDir = `${rootDir}/content/categories`
   const apiDir = `${rootDir}/static/api`

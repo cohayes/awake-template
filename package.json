@@ -9,6 +9,8 @@
     "precommit": "npm run lint",
     "before-build": "node ./build-tools/beforeBuild.js",
     "after-build": "node ./build-tools/afterBuild.js",
+    "verify:generate": "node ./build-tools/verifyGenerate.js",
+    "audit:deps": "npm outdated",
     "dev": "npm run before-build && nuxt -o && npm run after-build",
     "build": "npm run before-build && nuxt build && npm run after-build",
     "start": "nuxt start",
