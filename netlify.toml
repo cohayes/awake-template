@@ -1,5 +1,5 @@
 [build]
   publish = "dist"
-  command = "npm run generate"
+  command = "npm run generate && npm run verify:generate"
 [build.environment]
   NODE_VERSION = "22"
